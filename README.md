@@ -79,7 +79,7 @@ You can **interact** with the data through a Streamlit application.
      
 - **View the Streamlit app online**:  
   If the app is deployed via Streamlit Cloud, you can view it using the link below:
-  [View Streamlit Application](https://share.streamlit.io/your_username/your_repo_name/main/app.py)
+  [View Streamlit Application](https://github.com/hichambendaoud/Patient-record/blob/main/Streamlit/streamlit_app.py)
 
 ---
 
