@@ -1,43 +1,32 @@
-# Hospital Patient Records Project
+# Patient Records Project
 
-This project focuses on analyzing hospital patient records to extract actionable insights. It includes data cleaning, exploratory data analysis (EDA), and interactive dashboards built with Power BI and Streamlit.
+This project provides an analysis of hospital patient records, visualized through Power BI dashboards.
 
----
+## Project Overview
 
-## Project Features
-1. **Data Cleaning**:
-   - Automated data cleaning using Python scripts (`clean.ipynb`).
-   
-2. **Exploratory Data Analysis (EDA)**:
-   - Custom Python functions in `eda_functions.py` for EDA.
-   - Automated summary statistics and visualizations.
-
-3. **Dashboards**:
-   - **Power BI**:
-     - Interactive dashboards for key insights (e.g., admissions, average cost).
-   - **Streamlit**:
-     - Web-based application for presenting findings interactively.
+This repository includes:
+- A **Data Model** showcasing the relationships between tables used in the analysis.
+- A **Dashboard Overview** for key insights and performance metrics.
+- The Power BI file for detailed exploration and customization.
 
 ---
 
-## Tools Used
-- **Programming Languages**: Python
-- **Libraries**: Pandas, Matplotlib, Seaborn
-- **Visualization Tools**: Power BI, Streamlit
-- **Version Control**: Git & GitHub
+## Data Model
+![Data Model](https://github.com/hichambendaoud/Patient-record/blob/main/assets/Data_Model.PNG)
 
 ---
 
-## File Structure
-- `clean.ipynb`: Jupyter notebook for cleaning the dataset.
-- `eda_functions.py`: Python file with reusable functions for EDA.
-- `PowerBI/`: Contains Power BI reports.
-- `Streamlit/`: Streamlit app files for an interactive web-based dashboard.
+## Dashboard Overview
+![Dashboard Overview](https://github.com/hichambendaoud/Patient-record/blob/main/assets/Dashboard_Overview.PNG)
 
 ---
 
-## How to Run
-### Python Scripts
-1. Clone the repository:
+## Power BI Report
+Click [here](https://github.com/hichambendaoud/Patient-record/blob/main/Patient_Records.pbix) to download the Power BI report file.
+
+---
+
+## How to Use
+1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/hichambendaoud/Patient-record.git
