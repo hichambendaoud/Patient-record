@@ -22,8 +22,14 @@ This repository includes:
 ---
 
 ## Power BI Report
-Click [here](https://github.com/hichambendaoud/Patient-record/blob/main/Patient_Records.pbix) to download the Power BI report file.
 
+You can either **download** the Power BI report file or **view** it online.
+
+- **Download the Power BI report file**: [Download](https://github.com/hichambendaoud/Patient-record/blob/main/Patient_Records.pbix)
+
+- **View the Power BI report online**:  
+  [View Public Report](https://app.powerbi.com/links/pTKO129aOY?ctid=3bd72a86-a8ea-44a6-a899-f3cccbedf027&pbi_source=linkShare&bookmarkGuid=bda8b611-e1fb-4849-b18b-dae237924eec)
+   
 ---
 
 ## How to Use
