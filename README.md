@@ -62,6 +62,26 @@ You can either **download** the Power BI report file or **view** it online.
 - `Streamlit/`: Streamlit app files for an interactive web-based dashboard.
 
 ---
+## Streamlit Application
+
+You can **interact** with the data through a Streamlit application.
+
+- **Run the Streamlit app locally**:  
+  To run the Streamlit app on your local machine, follow these steps:
+  1. Install Streamlit:
+     ```bash
+     pip install streamlit
+     ```
+  2. Run the app:
+     ```bash
+     streamlit run app.py
+     ```
+     
+- **View the Streamlit app online**:  
+  If the app is deployed via Streamlit Cloud, you can view it using the link below:
+  [View Streamlit Application](https://share.streamlit.io/your_username/your_repo_name/main/app.py)
+
+---
 
 ## How to Use
 1. Clone this repository to your local machine:
