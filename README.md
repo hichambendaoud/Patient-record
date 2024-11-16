@@ -12,12 +12,12 @@ This repository includes:
 ---
 
 ## Data Model
-![Data Model](https://github.com/hichambendaoud/Patient-record/blob/main/assets/Data_Model.PNG)
+![Data Model](https://raw.githubusercontent.com/hichambendaoud/Patient-record/main/assets/Data_Model.PNG)
 
 ---
 
 ## Dashboard Overview
-![Dashboard Overview](https://github.com/hichambendaoud/Patient-record/blob/main/assets/Dashboard_Overview.PNG)
+![Dashboard Overview](https://raw.githubusercontent.com/hichambendaoud/Patient-record/main/assets/Dashboard_Overview.PNG)
 
 ---
 
